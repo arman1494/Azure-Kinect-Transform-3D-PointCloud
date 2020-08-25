@@ -6,3 +6,7 @@ The code which works in playback mode and reads the mkv file (how to create a mk
 
 # Usage Info
 For using this code you need k4a library.
+
+# Example
+
+![](1.gif)
